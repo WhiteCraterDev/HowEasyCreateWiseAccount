@@ -15,9 +15,9 @@
 "LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
 
 // main ads ke backup ads 
-"MODE_BACKUP_ADS" : false,
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -25,9 +25,9 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "APPLOVIN",
+"PENGATURAN_IKLAN_INTER" : "APPLOVINB",
+"PENGATURAN_IKLAN_NATIVE" : "APPLOVIN",
 
 "INTER_COUNT" : "2",
 
@@ -60,8 +60,8 @@
 "UNITY_INTERSTITIAL" : "inter",
 "UNITY_GAME_ID" : "4114625",
 
-"APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7dc",
+"APPLOVIN_BANNER_MAX_ID" : "1aab6877e7741882",
+"APPLOVIN_INTERSTITIAL_MAX_ID" : "9ed1cff4bb7b919b",
 
 "BUTTON_START" : "START",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
